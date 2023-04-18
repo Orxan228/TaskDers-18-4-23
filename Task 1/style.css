@@ -1,0 +1,26 @@
+.container{
+    width: 70%;
+    font-size: 20px;
+    margin: 100px auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+.container___box{
+    width: 14%;
+    padding: 30px 10px;
+    border: 1px solid black;
+    /* background-color: gray; */
+    margin: 1px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cut{
+    background-color: green;
+}
+.tek{
+    background-color: red;
+}
+.sade{
+    background-color: yellow;
+}
